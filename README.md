@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sahil Dherange</h1>
+<h1 align="center">Hi I'm Sahil Dherange</h1>
 <h3 align="center">A passionate Cyber Security Learner from India</h3>
 
-- 🌱 I’m currently learning **SIEM Tools(Splunk)**
+-  I’m currently learning **SIEM Tools(Splunk)**
 
-- 📝 I regularly write articles on [https://medium.com/@sahilkunpc](https://medium.com/@sahilkunpc)
+- I regularly write articles on [https://medium.com/@sahilkunpc](https://medium.com/@sahilkunpc)
 
-- 📫 How to reach me **sahilkunpc@gmail.com**
+- How to reach me **sahilkunpc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
