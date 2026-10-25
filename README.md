@@ -1,9 +1,9 @@
 <h1 align="center">Hi I'm Sahil Dherange</h1>
 <h3 align="center">A passionate Cyber Security Learner from India</h3>
 
--  I’m currently learning **SIEM Tools(Splunk)**
+-  I’m currently learning **Detections**
 
-- I regularly write articles on [https://medium.com/@sahilkunpc](https://medium.com/@sahilkunpc)
+- I Sometimes write articles on [https://medium.com/@sahilkunpc](https://medium.com/@sahilkunpc)
 
 - How to reach me **sahilkunpc@gmail.com**
 
